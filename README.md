@@ -1,6 +1,6 @@
 # CREATING SYSTEMD SERVICE
 
-![](ZZZ/ZZZ/jpeg)
+![](ZZZ/ZZZ.jpeg)
 
 * A systemd unit refers to any resource that the system knows how to operate upon and manage.
 
@@ -69,4 +69,3 @@ WantedBy=<milti-user.target is generally used>
 - [Opensource.com](https://opensource.com/article/20/5/systemd-units)
 - [Stack Exchange](https://unix.stackexchange.com/questions/15348/writing-basic-systemd-service-files)
 - [Linux Handbook](https://linuxhandbook.com/create-systemd-services/)
-- []()
